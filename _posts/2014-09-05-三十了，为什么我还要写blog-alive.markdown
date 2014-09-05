@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的Blog
+title: 三十了，为什么我还要写blog
 ---
 <h2>{{ page.title }}</h2>
 <p>最新文章</p>
